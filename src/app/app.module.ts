@@ -8,6 +8,7 @@ import { RodapeComponent } from './rodape/rodape.component';
 import { HomeComponent } from './home/home.component';
 import { SobreNosComponent } from './sobre-nos/sobre-nos.component';
 import { ContatoComponent } from './contato/contato.component';
+import { CursosComponent } from './cursos/cursos.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { ContatoComponent } from './contato/contato.component';
     RodapeComponent,
     HomeComponent,
     SobreNosComponent,
-    ContatoComponent
+    ContatoComponent,
+    CursosComponent
   ],
   imports: [
     BrowserModule,
