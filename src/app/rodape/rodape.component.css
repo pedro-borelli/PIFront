@@ -20,15 +20,68 @@ ul.social-network li
 
 .fa-facebook-square:hover 
 {
-    color: #3b5998;
+    color: #000000;
 }
 
 .fa-instagram:hover
 {
-    color: #C13584;
+    color: #000000;
 }
 
-.fa-linkedin-square:hover 
+.fa-twitter-square:hover 
 {
- color: #0072b1;
+ color: #000000;
 }
+.bgPu{
+background-color: #940c82;
+}
+ 
+.jusEnd {
+
+    display: flex;
+    justify-content: flex-end
+}
+
+.upButton {
+
+height: 50px;
+width: 50px;
+
+}
+
+.endicon {
+    height: 25px;
+    width: 25px;
+    margin-right: 5px;
+
+}
+
+.endline {
+    display: inline;
+    margin: 0;
+}
+
+.footer {
+    margin-top: 6rem;
+    padding-top: 9rem;
+
+    background:
+    
+    url(https://i.imgur.com/vN40EiF.png),
+    url(https://i.imgur.com/fPK6j4I.png);
+  
+
+    background-position:
+        center top,
+        center center;
+    background-repeat: no-repeat;
+}
+
+ 
+.copyright {
+    padding: 25px 0;
+    font-size: 15px;
+    border-top: 1px solid rgba(256, 256, 256, .1);
+}
+
+
