@@ -1,0 +1,28 @@
+#img-bg{
+    background-image: url('../../assets/img/fotologin.png');
+  
+    min-height: 550px;
+    
+    margin-top: 50px;
+    padding: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .bg-button {
+    background:#7b53c1;
+  }
+
+  .button {
+      width: 350px;
+      height: 40px;
+  }
+
+  .button-entrar {
+      color: rgb(255, 255, 255);
+  }
+
+  .cor-entrar {
+    color:#7b53c1;
+  }

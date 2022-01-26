@@ -1,0 +1,15 @@
+#img-bg{
+    background-image: url('../../assets/img/fotologin.png');
+  
+    min-height: 550px;
+    
+    margin-top: 50px;
+    padding: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .cor-cadastrar {
+    color:#7b53c1;
+  }
